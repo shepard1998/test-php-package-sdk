@@ -1,0 +1,23 @@
+{
+  "name": "shepard41/test-package-sdk",
+  "description": "Some test package",
+  "version": "1.0.0",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kevin Fernandez",
+      "email": "kevinfdez41@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.0",
+    "robsontenorio/laravel-keycloak-guard": "^1.4"
+
+  },
+  "autoload": {
+    "psr-4": {
+      "shepard41\\test-package-sdk\\": "src/"
+    }
+  }
+}
