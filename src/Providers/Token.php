@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Shepard41\TestPackageSdk\Providers;
 
 use Firebase\JWT\JWT;
 use Firebase\JWT\Key;

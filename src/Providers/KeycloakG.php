@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Shepard41\TestPackageSdk\Providers;
 
 use Illuminate\Contracts\Auth\Authenticatable;
 use Illuminate\Contracts\Auth\Guard;

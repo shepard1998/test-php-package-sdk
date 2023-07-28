@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Shepard41\TestPackageSdk\Providers;
 
 use Illuminate\Auth\AuthServiceProvider as ServiceProvider;
 use Illuminate\Support\Facades\Auth;

@@ -1,5 +1,5 @@
 <?php
-namespace App\Http\Middleware;
+namespace Shepard41\TestPackageSdk\Middleware;
 
 use Closure;
 

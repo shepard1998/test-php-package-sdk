@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Shepard41\TestPackageSdk\Providers;
 
 use App\Singleton\SingletonTokenApp;
 use Illuminate\Support\ServiceProvider;
