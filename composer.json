@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "shepard41\\test-package-sdk\\": "src/"
+      "Shepard41\\TestPackageSdk\\": "src/"
     }
   }
 }
